@@ -6,7 +6,7 @@ This project explores the Titanic dataset, focusing on data cleaning, missing da
 
 ## Dataset
 
-- Dataset: [titanic_train.csv]("https://github.com/ashaneo/Handling-Missing-Elements-in-a-DataSet-with-Mean/blob/main/titanic_train.csv")
+- Dataset: [titanic_train.csv](https://github.com/ashaneo/Handling-Missing-Elements-in-a-DataSet-with-Mean/blob/main/titanic_train.csv)
 - Columns: PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
 
 ## Data Cleaning and Missing Data Handling
